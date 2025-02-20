@@ -1,4 +1,11 @@
-## Hi there 👋
+# Welcome to my README.md
+# ═══════════════════════════════
+## Projects
+[fileDitor](https://github.com/benja2998/fileDitor)
+# ═══════════════════════════════
+## What i'm working on
+Currently nothing.
+## 
 
 <!--
 **benja2998/benja2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
