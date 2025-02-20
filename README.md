@@ -6,7 +6,7 @@
 ## What i'm working on
 Currently nothing.
 # ═══════════════════════════════
-You can talk at [https://github.com/benja2998/benja2998/discussions]
+You can talk at [discussions](https://github.com/benja2998/benja2998/discussions)
 
 
 <!--
