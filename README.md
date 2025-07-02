@@ -6,7 +6,6 @@
 
 * [**Kali in Batch**](https://github.com/orgs/Kali-in-Batch/repositories)
 * [**Batch compiler**](https://github.com/benja2998/batch)
-* [**Classic Outfit Ideas**](https://github.com/benja2998/Classic-Outfit-Ideas)
 
 ---
 
